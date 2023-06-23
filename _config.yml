@@ -1,4 +1,3 @@
-# Welcome to Ultimate Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -106,8 +105,8 @@ manifest:
   theme-color: "#ffffff" # example: #ffffff
   background-color: "#ffffff" # example: #ffffff
   display: "standalone" # example: standalone
-  start-url: "index.html" # example: index.html, /maps/?source=pwa
-  scope: "/" # example: /maps/, /
+  start-url: "/?source=pwa" # example: /, /maps/?source=pwa
+  scope: "/" # example: /, /maps/
   orientation: "portrait" # example: portrait,
 
 schema:
@@ -241,6 +240,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate-v2
   - jekyll-liquify
+  - jekyll-truthyfalsy
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
