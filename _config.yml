@@ -206,7 +206,7 @@ settings:
           enabled: true,
           config: {
             dsn: '',
-            release: 'ultimate-jekyll-website',
+            release: '',
           },
         },
       },
