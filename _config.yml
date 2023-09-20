@@ -171,7 +171,7 @@ settings:
         firebase_appCheck: {
           enabled: false,
           config: {
-            siteKey: '6Lf7FvInAAAAANGWIztSF32IyC_78ONof3QcwCzQ',
+            siteKey: '6LddIDsoAAAAAIlymzmJuwr9Ktz7vS7e0LLxY4kd',
           },
         },
         cookieconsent: {
