@@ -1,0 +1,28 @@
+{
+  "environment": "production",
+  "repo": {
+    "user": "somiibo",
+    "name": "webtrafficbot-website"
+  },
+  "npm-build": {
+    "timestamp": "2023-12-01T00:40:43.792Z"
+  },
+  "gh-pages-push": {
+    "timestamp": "%GHP_TIMESTAMP%"
+  },
+  "packages": {
+    "web-manager": "3.2.20"
+  },
+  "brand": {
+    "name": "Web Traffic Bot",
+    "type": "Corporation",
+    "description": "Free web traffic bot for Mac, Windows & Linux. Lower your site's bounce rate & rank higher on search engines with our traffic generator. Generate unlimited traffic for free!",
+    "logo-image": "https://cdn.itwcreativeworks.com/assets/somiibo/images/logo/somiibo-brandmark-blue-1024x1024.png",
+    "logo-image-svg": "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg",
+    "address-locality": "Los Angeles",
+    "address-country": "United States"
+  },
+  "admin-dashboard": {
+    "pages": []
+  }
+}

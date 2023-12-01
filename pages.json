@@ -1,0 +1,461 @@
+
+
+
+
+[{
+        "url": "https://webtrafficbot.com/404",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/about",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/account",
+        "title": "Account - Web Traffic Bot",
+        "desc": "Manage your Web Traffic Bot account.",
+        "breadcrumb": "Account",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/ads",
+        "title": "Ads - Web Traffic Bot",
+        "desc": "Test Web Traffic Bot ads",
+        "breadcrumb": "Ads",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/ads.txt",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/analytics",
+        "title": "Analytics - Web Traffic Bot",
+        "desc": "Test Web Traffic Bot analytics",
+        "breadcrumb": "Analytics",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/app",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/authentication-required",
+        "title": "Authentication Required - Web Traffic Bot",
+        "desc": "Authentication required for Web Traffic Bot.",
+        "breadcrumb": "Authentication Required",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/authentication-success",
+        "title": "Authentication Success - Web Traffic Bot",
+        "desc": "Authentication success for Web Traffic Bot.",
+        "breadcrumb": "Authentication Success",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/authentication-token",
+        "title": "Authentication Token - Web Traffic Bot",
+        "desc": "Authentication token Web Traffic Bot.",
+        "breadcrumb": "Authentication Token",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/blog",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/bluetooth",
+        "title": "Bluetooth - Web Traffic Bot",
+        "desc": "Test Web Traffic Bot Bluetooth",
+        "breadcrumb": "Bluetooth",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/careers",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/checkout",
+        "title": "Web Traffic Bot Checkout",
+        "desc": "Web Traffic Bot checkout page.",
+        "breadcrumb": "Web Traffic Bot Checkout",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/checkout/confirmation",
+        "title": "Thank you!",
+        "desc": "Thanks for checking out!",
+        "breadcrumb": "Thank you",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/submission/confirmation",
+        "title": "Submission Confirmation",
+        "desc": "Thank you for taking the time to submit your request. We will get back to you as soon a possible.",
+        "breadcrumb": "Submission",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/contact",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/cookies",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/posts/create",
+        "title": "Create Post",
+        "desc": "Create blog posts with ease, including the beautiful markdown editor StackEdit.",
+        "breadcrumb": "Create",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/notifications/create",
+        "title": "Create Notification",
+        "desc": "Send push notifications to capture your audience!",
+        "breadcrumb": "Create",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/dashboard",
+        "title": "Dashboard",
+        "desc": "Manage Web Traffic Bot via this helpful dashboard.",
+        "breadcrumb": "Dashboard",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/download",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/email-subscription",
+        "title": "Newsletter - Web Traffic Bot",
+        "desc": "Subscribe to our newsletter so you can be in the know about our latest projects.",
+        "breadcrumb": "Subscribe",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/extension",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/feedback",
+        "title": "Feedback - Web Traffic Bot",
+        "desc": "Provide feedback to the  Web Traffic Bot team and help us improve our product for you.",
+        "breadcrumb": "Feedback",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/lab/firestore",
+        "title": "Firestore",
+        "desc": "Test your Firestore rules in this sandbox.",
+        "breadcrumb": "Firestore",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/forgot",
+        "title": "Forgot - Web Traffic Bot",
+        "desc": "Recover your password for Web Traffic Bot.",
+        "breadcrumb": "Forgot",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/__/auth/handler",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/__/auth/iframe",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/users",
+        "title": "Explore Users",
+        "desc": "Explore users with this Firestore query tool.",
+        "breadcrumb": "Explore Users",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/posts",
+        "title": "Posts",
+        "desc": "View posts",
+        "breadcrumb": "Posts",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/notifications",
+        "title": "Notifications",
+        "desc": "View notifications",
+        "breadcrumb": "Notifications",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/oauth2",
+        "title": "OAuth2 - Web Traffic Bot",
+        "desc": "Authorize your account to connect it to Web Traffic Bot.",
+        "breadcrumb": "OAuth2",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/users/online",
+        "title": "Explore Online Users",
+        "desc": "Explore online users with this Firestore query tool.",
+        "breadcrumb": "Explore online Users",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/feeds/posts.xml",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/notifications/vendor/preview",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/pricing",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/privacy",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/_report",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/robots.txt",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/signin",
+        "title": "Sign in - Web Traffic Bot",
+        "desc": "Sign in to Web Traffic Bot.",
+        "breadcrumb": "Sign in",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/signout",
+        "title": "Sign out - Web Traffic Bot",
+        "desc": "Sign out from Web Traffic Bot.",
+        "breadcrumb": "Sign out",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/signup",
+        "title": "Sign up - Web Traffic Bot",
+        "desc": "Sign up for Web Traffic Bot.",
+        "breadcrumb": "Sign up",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/sitemap.xml",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/posts/vendor/stackedit",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/team",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/terms",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/tools",
+        "title": "Feedback - Web Traffic Bot",
+        "desc": "Provide feedback to the  Web Traffic Bot team and help us improve our product for you.",
+        "breadcrumb": "Feedback",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/admin/lab/webhook",
+        "title": "Webhook",
+        "desc": "Test your webhook in this sandbox.",
+        "breadcrumb": "Webhook",
+        "category": "",
+        "type": ""
+      },
+    {
+        "url": "https://webtrafficbot.com/blog/example-post-7",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://webtrafficbot.com/blog/example-post-6",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://webtrafficbot.com/blog/example-post-5",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://webtrafficbot.com/blog/example-post-4",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://webtrafficbot.com/blog/example-post-3",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://webtrafficbot.com/blog/example-post-2",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      },
+    {
+        "url": "https://webtrafficbot.com/blog/example-post-1",
+        "title": "",
+        "desc": "",
+        "breadcrumb": "",
+        "category": "",
+        "type": "post"
+      }
+    ]
