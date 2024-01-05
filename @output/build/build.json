@@ -5,13 +5,13 @@
     "name": "webtrafficbot-website"
   },
   "npm-build": {
-    "timestamp": "2024-01-01T00:41:11.255Z"
+    "timestamp": "2024-01-05T11:39:26.259Z"
   },
   "gh-pages-push": {
     "timestamp": "%GHP_TIMESTAMP%"
   },
   "packages": {
-    "web-manager": "3.2.30"
+    "web-manager": "3.2.33"
   },
   "brand": {
     "name": "Web Traffic Bot",
