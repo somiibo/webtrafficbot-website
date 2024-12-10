@@ -6,7 +6,7 @@
   "description": "Free web traffic bot for Mac, Windows & Linux. Lower your site's bounce rate & rank higher on search engines with our traffic generator. Generate unlimited traffic for free!",
   "generator": "Jekyll 4.3.2",
   "language": "en",
-  "favicon": "",
+  "favicon": "https://cdn.itwcreativeworks.com/assets/somiibo/images/favicon",
   "items": [
       {"id": "https://webtrafficbot.com/blog/unlocking-the-potential-of-automated-traffic-for-your-website",
         "url": "https://webtrafficbot.com/blog/unlocking-the-potential-of-automated-traffic-for-your-website",
