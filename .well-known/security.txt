@@ -1,0 +1,6 @@
+Contact: mailto:
+Contact: https://webtrafficbot.com/contact
+Preferred-Languages: en
+Canonical: https://webtrafficbot.com/.well-known/security.txt
+Policy: https://webtrafficbot.com/privacy
+Expires: 2026-12-31T23:59:59.000Z
